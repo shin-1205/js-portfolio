@@ -475,3 +475,10 @@ svg {
         font-size: 18px;
     }
 }
+
+
+.top-img {
+max-width: 300px;
+border-radius: 10px;
+margin: 20px 0;
+}
